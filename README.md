@@ -1,6 +1,6 @@
 # IM3 Travel eSIM Marketplace PWA
 
-Installable, static Vercel-ready prototype for the AIX Phase III Thailand local eSIM journey. It is responsive for iPhone Safari and Android browsers.
+Installable, static Vercel-ready prototype for the AIX Phase III Thailand travel journey. It is responsive for iPhone Safari and Android browsers. AIX is represented here as a digital identity platform and intelligence-orchestration layer: it governs consent and permitted recommendations; it is not presented as an operator marketplace itself.
 
 ## Deploy to Vercel
 
@@ -22,6 +22,6 @@ The PWA can demonstrate the iPhone eSIM journey and show an operator-issued QR/m
 
 ## Demo flow
 
-Home → Thailand plans → operator filter → choose plan → traveller details → payment → operator fulfilment → iPhone/Android native-install handoff → QR/manual fallback → activation dashboard → receipt.
+Home → Thailand arrival → journey-specific consent → personalisation buffer → next-best IM3 roaming or local eSIM option → package / operator comparison → checkout → activation → dashboard and receipt.
 
 The page is an illustrative mockup. It does not connect to IM3 Shop, AIS, a payment provider, or an eSIM provisioning API.
