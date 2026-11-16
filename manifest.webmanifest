@@ -1,0 +1,17 @@
+{
+  "name": "IM3 Travel eSIM Marketplace",
+  "short_name": "IM3 Travel",
+  "description": "Compare, purchase and manage Thailand local eSIM plans in one IM3 journey.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ed1c2e",
+  "icons": [
+    {
+      "src": "./assets/im3-travel-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
